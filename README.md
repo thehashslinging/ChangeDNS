@@ -1,6 +1,6 @@
 # AutoDNS Setup
 
-Script sederhana untuk mengganti DNS VPS dengan Cloudflare (1.1.1.1), Google (8.8.8.8), dan Quad9 (9.9.9.9).
+Script sederhana untuk mengganti DNS VPS dengan Cloudflare (1.1.1.1) dan Google (8.8.8.8).
 
 ## Cara Pakai
 
